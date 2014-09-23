@@ -1,4 +1,4 @@
-g#Project Euler 34
+#Project Euler 41
 #09/01/2014
 #Matthew Small (mattsmall89@gmail.com)
 
@@ -26,11 +26,3 @@ if __name__ == '__main__':
 	for i in range(145,10000000):
 		if digit_factorial(i):
 			print i
-
-
-
-			if x 
-				return y
-
-			if x {return y		}
-			

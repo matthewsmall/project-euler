@@ -8,16 +8,11 @@
 import math
 import sys
 
-def Champernowne(n):
-
-	champ = ""
+def Pentagon(n):
 	
-	for i in range(1,int(n)):
-		champ = champ + str(i)
-
-	return int(champ[0])*int(champ[9])*int(champ[99])*int(champ[999])*int(champ[9999])*int(champ[99999])*int(champ[999999])
+	return n*(3*n-1)/2
 
 if __name__ == '__main__':
 	
-	#used function above with some manual work to find minimun length to get 1000000 digits
-	print Champernowne(185186)
+	for i in range(0,10)
+	print Pentagon(i)
