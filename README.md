@@ -2,7 +2,9 @@ project-euler
 =============
 https://projecteuler.net/progress=matthewsmall
 
-For all of my project euler code.  I have solved 37 so far.
+For all of my project euler code.  I have solved 38 so far.
+
+I am just switching to solving the problems in Javascript to learn it.
 
 Many were done years ago in C++ (but I can't locate my code unfortunately).
 
