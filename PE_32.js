@@ -16,7 +16,7 @@ var output = function(loopLen){
   var nums = "";
   var listOfC = [];
   for(var a = 1; a<loopLen; a++){
-    for(var b = 2; b<loopLen; b++){
+    for(var b = 100; b<loopLen; b++){
       c = a * b;
       nums = a.toString() + b.toString() + c.toString();
       if (nums.length === 9){//do this check for speed
